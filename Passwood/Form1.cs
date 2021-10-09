@@ -74,8 +74,6 @@ namespace Passwood
                     {
                         try
                         {
-                            
-                            MessageBox.Show(byto(a.encpaswd));
                             password = AES.Decrypt(a.encpaswd, Encoding.UTF8.GetBytes(a.answerda));
                             MessageBox.Show("Password is: " + Encoding.UTF8.GetString(password));
                         }
@@ -190,8 +188,6 @@ namespace Passwood
             byte[] pash = DoubleHash(Encoding.UTF8.GetBytes(a.password));
 
             password = Encoding.UTF8.GetBytes(a.password);
-
-            MessageBox.Show(byto(pass));
 
             byte[] Userfile = new byte[recq.Length + recl.Length + pass.Length + pasl.Length + pash.Length];
             Userfile = Set_Bytes(Userfile, 0, recl, 0, recl.Length);

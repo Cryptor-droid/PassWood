@@ -10,3 +10,15 @@ C:\Users\gorke\source\repos\Passwood\Passwood\obj\Debug\Passwood.exe
 C:\Users\gorke\source\repos\Passwood\Passwood\obj\Debug\Passwood.pdb
 C:\Users\gorke\source\repos\Passwood\Passwood\obj\Debug\Passwood.Modify.resources
 C:\Users\gorke\source\repos\Passwood\Passwood\obj\Debug\Passwood.Login.resources
+C:\Users\gorke\Documents\GitHub\PassWood\Passwood\bin\Debug\Passwood.exe.config
+C:\Users\gorke\Documents\GitHub\PassWood\Passwood\bin\Debug\Passwood.exe
+C:\Users\gorke\Documents\GitHub\PassWood\Passwood\bin\Debug\Passwood.pdb
+C:\Users\gorke\Documents\GitHub\PassWood\Passwood\obj\Debug\Passwood.csprojAssemblyReference.cache
+C:\Users\gorke\Documents\GitHub\PassWood\Passwood\obj\Debug\Passwood.Form1.resources
+C:\Users\gorke\Documents\GitHub\PassWood\Passwood\obj\Debug\Passwood.Login.resources
+C:\Users\gorke\Documents\GitHub\PassWood\Passwood\obj\Debug\Passwood.Modify.resources
+C:\Users\gorke\Documents\GitHub\PassWood\Passwood\obj\Debug\Passwood.Properties.Resources.resources
+C:\Users\gorke\Documents\GitHub\PassWood\Passwood\obj\Debug\Passwood.csproj.GenerateResource.cache
+C:\Users\gorke\Documents\GitHub\PassWood\Passwood\obj\Debug\Passwood.csproj.CoreCompileInputs.cache
+C:\Users\gorke\Documents\GitHub\PassWood\Passwood\obj\Debug\Passwood.exe
+C:\Users\gorke\Documents\GitHub\PassWood\Passwood\obj\Debug\Passwood.pdb
